@@ -2,7 +2,7 @@
 
 Fine-tuning DistilBERT for binary sentiment classification on the IMDB movie reviews dataset using Hugging Face Transformers.
 
-## 📋 Overview
+## Overview
 
 This project demonstrates how to fine-tune a pre-trained DistilBERT model for sentiment analysis on the IMDB dataset. The model classifies movie reviews as either **Positive** or **Negative** with high accuracy.
 
@@ -14,7 +14,7 @@ This project demonstrates how to fine-tune a pre-trained DistilBERT model for se
 - Mixed precision training (FP16) for faster training
 - Comparison between base and fine-tuned model performance
 
-## 🎯 Results
+## Results
 
 | Metric | Score |
 |--------|-------|
